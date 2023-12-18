@@ -1,0 +1,15 @@
+HOW TO USE:
+
+1. If you are unfamiliar with the application, click the "Click for an explanation" button. It will display text to help you. The text says the following:
+"Okay, to use the program, you have to input colors available with the Python
+Turtle graphics. Here are a list of 15 example colors.: Black, Red, Green, Blue, Yellow, Aqua
+Orange, Lime, Gold, Silver, Purple, Pink, Magenta, Violet, and White(not reccomended for shell of Gameboy.) 
+You can also do this through Hex Codes, entering it exactly as'#RRGGBB'"
+
+The program will crash if you input the wrong color or hex code. Otherwise, it will run fine, even if the textbox is blank.
+
+2. The button that says "Click to start the application" does what it says, click it to begin entering colors in the textboxes that appear in the new window. There is also a button for your name, so someone can know who made what.
+
+3. There are two buttons, one on the "Window for Main" window, and "Window for Colors" window. Each window has a button that reads "Click to end application." CLicking it will kill the program.
+
+4. Once step 2 is complete, there is a button that states "Click to save the inputs and draw GameBoy" once that button is pushed, the inputs arae saved and a GameBoy will be drawn on the screen with the colors you inputed! The program is finished after that.
